@@ -1,4 +1,3 @@
----
 
 # 🔐 AWS IAM Scenario-Based Questions & Answers
 
